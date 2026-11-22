@@ -1,0 +1,10 @@
+{
+  "appId": "co.bosta.dock",
+  "appName": "Bosta Dock",
+  "webDir": "www",
+  "server": {
+    "url": "https://mosaad1744.github.io/bosta-dock/",
+    "cleartext": false
+  },
+  "android": { "allowMixedContent": false }
+}
